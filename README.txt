@@ -8,5 +8,10 @@ index.html - The Index document for the website.
 /img - The background image file for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
+/Screenshots - Required by Udacity
+
+Website endpoint: https://my-611951317238-bucket.s3-website-us-east-1.amazonaws.com/
+Cloudfront URL: d1ihuqet1du4ce.cloudfront.net
+
 
 
